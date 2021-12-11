@@ -8,6 +8,9 @@
 <br><br><br><br><br>
 <samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23"> we're on twitter: [OpusTheRobot](https://www.twitter.com/OpusTheRobot) 💭
 <br><br><br>
+  
+  To-Do: Git issues & commenting, relating to slack/discord>>kyber
+  
   <!--
 ### The team
   

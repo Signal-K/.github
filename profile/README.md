@@ -6,7 +6,7 @@
    </samp>
 
 <br><br><br><br><br>
-<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23"> we're on twitter: [OpusTheRobot](https://www.twitter.com/OpusTheRobot) 💭
+<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23"> we're on twitter: [TheMrScrooby](https://www.twitter.com/TheMrScrooby) 💭
 <br><br><br>
   
   <!--

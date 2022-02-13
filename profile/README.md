@@ -3,7 +3,7 @@
   🛸 making sci-fi dapps on the blockchain <br>
   📽 all our dapps are powered by citizen science <br>
   📖 we work with aerospace & scitech companies to bring science to the masses <br> 
-  🧪 Citizen-science & panoptes-powered scientific development
+  🧪 Citizen-science & panoptes-powered scientific development <br>
   🧱 Helping to make the blockchain safer, more eco-friendly, and more accessible #BlockchainForBetter
    </samp>
 
